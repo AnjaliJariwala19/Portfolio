@@ -48,6 +48,14 @@ const projects = [
         image: "/projects/project6.png",
         tags: ["React", "CSS"],
         githubUrl: "https://github.com/AnjaliJariwala19/Amazon-Clone.git"
+    },
+    {
+        id: 7,
+        title: "Amazon Clone",
+        description: "Developed a responsive personal portfolio using React, Vite, and Tailwind CSS to showcase projects, skills, and contact details with EmailJS integration.",
+        image: "/projects/project7.png",
+        tags: ["React", "TailwindCSS", "EmailJS", "Vite"],
+        githubUrl: "https://github.com/AnjaliJariwala19/Portfolio.git"
     }
 
 ]
